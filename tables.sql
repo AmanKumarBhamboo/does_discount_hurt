@@ -82,5 +82,3 @@ ALTER TABLE supplier RENAME COLUMN s_phone TO phone;
 ALTER TABLE supplier RENAME COLUMN s_acctbal TO account_balance;
 ALTER TABLE supplier RENAME COLUMN s_comment TO comment;
 
-
-
